@@ -7,3 +7,7 @@ Running the program creates a window with real time visualisation of the point c
 Multiple files can be saved while the program runs, just press 'w' again after an eg. adjustment in position.
 
 The captured resolution can be changed in the program by adjusting the value for 'skip'.
+
+## Reference
+The OpenKinect library has been ported to Processing by Daniel Shiffman. Parts of the demos have been used in order to make the program for this specific purpose. More information about the Processing approach to Kinect here:
+http://shiffman.net/p5/kinect/
